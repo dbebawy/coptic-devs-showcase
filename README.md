@@ -39,6 +39,7 @@ Coptic Devs is a discord-first community that allows Coptic Developers connect f
 | [Upper Room Media Webapp](https://github.com/upperroommedia/web-app) | A webapp for the Upper Room Media Group | Next.js |
 | [Catena Web](https://catenabible.com/) | A webapp for Catena. To contribute fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeEbM9jEH9GULla1bumG9QF7hY66ubEw_EluSjcXIc1QsYJHQ/viewform) | React |
 | [What Am I Praying](https://whatamipraying.vercel.app) | A webapp to help large clergy liturgies allocate which priest / bishop has which part in the liturgy | React |
+| [One Coptic Library](https://app.onecopticlibrary.com) | A digital Coptic library with cross-platfrom, multilingual, and transliteration support. | Flutter |
 
 
 ### Mobile
@@ -46,5 +47,6 @@ Coptic Devs is a discord-first community that allows Coptic Developers connect f
 | --- | --- | -- |
 | [Metre Men Qeemi](https://github.com/mark-yacoub/metremenqeemi) | The Open Source Android/iOS app to learn how to read and understand the Coptic Language | React Native |
 | [Catena Mobile](https://apps.apple.com/us/app/catena-bible-commentaries/id1218663640) | The bible app + the sayings of the church fathers. To contribute fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeEbM9jEH9GULla1bumG9QF7hY66ubEw_EluSjcXIc1QsYJHQ/viewform) | React Native |
+| One Coptic Library [Android](https://play.google.com/store/apps/details?id=com.onecopticlibrary.ocl) [iOS/macOS](https://apps.apple.com/us/app/one-coptic-library/id1662280247) [Windows](https://onecopticlibrary.com/builds/latest/windows/One%20Coptic%20Library.zip) [Linux](https://onecopticlibrary.com/builds/latest/linux/One%20Coptic%20Library.zip) | A digital Coptic library with cross-platfrom, multilingual, and transliteration support. | Flutter |
 
 **[⬆ Back to Index](#index)**
